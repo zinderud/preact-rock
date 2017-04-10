@@ -1,6 +1,6 @@
 {
-  "name": "Preact PWA",
-  "short_name": "Preact PWA",
+  "name": "Preact Domo",
+  "short_name": "Preact Demo",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
